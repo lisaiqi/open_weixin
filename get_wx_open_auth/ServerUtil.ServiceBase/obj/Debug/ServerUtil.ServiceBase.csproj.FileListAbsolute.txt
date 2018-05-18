@@ -1,0 +1,5 @@
+C:\Users\LSQ\source\repos\get_wx_component_verify_ticket\ServerUtil.ServiceBase\bin\Debug\ServerUtil.ServiceBase.dll
+C:\Users\LSQ\source\repos\get_wx_component_verify_ticket\ServerUtil.ServiceBase\bin\Debug\ServerUtil.ServiceBase.pdb
+C:\Users\LSQ\source\repos\get_wx_component_verify_ticket\ServerUtil.ServiceBase\obj\Debug\ServerUtil.ServiceBase.csproj.CoreCompileInputs.cache
+C:\Users\LSQ\source\repos\get_wx_component_verify_ticket\ServerUtil.ServiceBase\obj\Debug\ServerUtil.ServiceBase.dll
+C:\Users\LSQ\source\repos\get_wx_component_verify_ticket\ServerUtil.ServiceBase\obj\Debug\ServerUtil.ServiceBase.pdb
