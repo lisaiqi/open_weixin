@@ -1,6 +1,0 @@
-D:\Landseed\INSURANCE\INSURANCE程序\INSURANCE_HX\ServerUtil.LogHelper\bin\Release\ServerUtil.LogHelper.dll
-D:\Landseed\INSURANCE\INSURANCE程序\INSURANCE_HX\ServerUtil.LogHelper\bin\Release\ServerUtil.LogHelper.pdb
-D:\Landseed\INSURANCE\INSURANCE程序\INSURANCE_HX\ServerUtil.LogHelper\bin\Release\log4net.dll
-D:\Landseed\INSURANCE\INSURANCE程序\INSURANCE_HX\ServerUtil.LogHelper\obj\Release\ServerUtil.LogHelper.csprojResolveAssemblyReference.cache
-D:\Landseed\INSURANCE\INSURANCE程序\INSURANCE_HX\ServerUtil.LogHelper\obj\Release\ServerUtil.LogHelper.dll
-D:\Landseed\INSURANCE\INSURANCE程序\INSURANCE_HX\ServerUtil.LogHelper\obj\Release\ServerUtil.LogHelper.pdb
